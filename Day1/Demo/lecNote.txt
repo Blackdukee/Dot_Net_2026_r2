@@ -1,0 +1,29 @@
+> iitailize git : git init
+> status : git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+working area              staging area                    local repo (.git)                remote repo 
+(pc)                      (filtaration)                                                    (github) 
+(untracked files || Chages)         (tracked files)      
+
+   index , about (update)
+
+   --------------------->
+           git add fileName || FolderName
+           git add file1   file2
