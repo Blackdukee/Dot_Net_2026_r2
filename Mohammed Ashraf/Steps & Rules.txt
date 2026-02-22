@@ -1,4 +1,4 @@
-1- ssh-keygen -t ed25519 -C "muhamiidashraf@gmail.com"
+1- ssh-keygen -t ed25519 -C "muhamiidashraf22@gmail.com"
 
 2- saved into users file in partition c (.ssh)
 
