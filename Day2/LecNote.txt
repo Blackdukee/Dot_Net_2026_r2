@@ -1,0 +1,8 @@
+===========> File .gitignore (create first)
+--------> Project : Handel all structure 
+-----------------------> all files that you want not be uploaded
+-----------------------------> add these files (.gitignore)
+
+
+==============> remove commit (git reset --hard Head~~~)
+

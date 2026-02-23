@@ -1,4 +1,4 @@
--- file .gitignore
+-- file .gitignore ---> file used to ignore files and don't uplouad them on git hub
 -- file README.md
 -- Branches
 -- Pull Request
