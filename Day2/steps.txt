@@ -4,4 +4,15 @@ create repo
 handel all structure 
 -----> feature create branch
 navbar : finsh (push on my branch on remote)
----------------> merge
+---------------> merge 
+merge master in about  (switch about --> pull master)
+
+--------> switch about 
+----------> git status (add , commit)
+              git pull master (conflict or not)
+    ****************** Conflict *********
+       same file (same lines) =====> conflict
+          ****************** not  Conflict *********
+          same file (different  lines) =====>  not conflict
+          different files =====>  not conflict
+
