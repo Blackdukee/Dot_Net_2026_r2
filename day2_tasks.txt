@@ -1,1 +1,8 @@
 -----------> remove specific commit (commit_id)
+-------------> fork from my repo (change on my repo and it listend in my repo)
+-------> organization : every one create organization add (4) different role add me on this organization
+                           add repository on this organization (add 4 people add me) -
+                            can you give every person role or not on this repo 
+
+
+file task.html ===> on my repo (add branch with any feature (task.index (add any code))) ==> merge with master
